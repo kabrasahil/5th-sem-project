@@ -1,0 +1,17 @@
+body {
+    font-family: Arial, sans-serif;
+    color: black;
+}
+
+#results {
+    margin-top: 20px;
+}
+
+.result-text {
+    color: black;
+}
+
+.no-results {
+    color: black;
+    font-style: italic;
+}
